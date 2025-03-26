@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+                    
+    
+    
+        
+    
+    
+    
+    <student id="2">
+                                
+        
+        
+        <name>Tu</name>
+                                
+        
+        
+        <age>18</age>
+                                
+        
+        
+        <major>stu</major>
+                            
+    
+    
+    </student>
+            
+    
+    
+    <student id="3">
+                        
+        
+        <name>Hang</name>
+                        
+        
+        <age>18</age>
+                        
+        
+        <major>wife</major>
+                    
+    
+    </student>
+        
+
+    <student id="3">
+        <name>ThuHang</name>
+        <age>18</age>
+        <major>ưife</major>
+    </student>
+</students>
